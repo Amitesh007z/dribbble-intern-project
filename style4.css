@@ -1,0 +1,138 @@
+#fn input{
+
+    width: 14vw;
+    height: 5vh;
+    border-radius: 2%;
+    border: 0;
+    background-color: #f3f3f3;
+    border-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+body{
+    
+}
+#fn{
+    display: inline-block;
+    position: relative;
+    left:45vw;
+    bottom: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    
+}
+
+label{
+    font-size: 2vw;
+    font-weight: bold;
+    position: relative;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+#sn input{
+
+    width: 14vw;
+    height: 5vh;
+    border-radius: 2%;
+    border: 0;
+    border-style: none;
+    background-color: #f3f3f3;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+#sn{
+    display: inline-block;
+    position: relative;
+    left:50vw;
+    bottom: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+  
+}
+.tn input{
+
+    width: 34vw;
+    height: 5vh;
+    border: 0;
+    border-radius: 2%;
+    border-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    background-color: #f3f3f3;
+}
+.tn{
+    display: inline-block;
+    position: relative;
+    left:45vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    bottom: 99vh;
+}
+.ps input{
+
+    width: 34vw;
+    border: 0;
+    border-style: none;
+    height: 5vh;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    border-radius: 2%;
+    background-color: #f3f3f3;
+}
+.ps{
+    display: inline-block;
+    position: relative;
+    left:10.5vw;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    bottom: 84vh;
+}
+
+
+p{
+    position: relative;
+    left: 96vh;
+    bottom: 83vh;
+
+}
+.bu {
+    background-color: #ea4b8a;
+    border: none;
+    color: white;
+    height: 6vh;
+    position: relative;
+    bottom:80vh ;
+    left:97vh;
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 1vh;
+   
+    cursor: pointer;
+    position: relative;
+    
+    width: 12vw;
+  }
+
+
+h4{
+    position: relative;
+    left: 175vh;
+    bottom: 100vh;
+
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 750;
+    position: relative;
+    left: 95vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    bottom: 100vh;
+
+  }
